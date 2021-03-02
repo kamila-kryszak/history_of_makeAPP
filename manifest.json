@@ -1,0 +1,24 @@
+{
+  "name": "History_of_makeAPP",
+  "short_name": "History_of_makeAPP",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/history_of_makeAPP/",
+  "start_url": "/history_of_makeAPP/",
+  "icons": [
+    {
+      "src": "pwa/manifest-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "pwa/manifest-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
