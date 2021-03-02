@@ -1,18 +1,8 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![cover](https://github.com/kamila-kryszak/history_of_makeAPP/blob/gh-pages/readme_hisoryOfMakeApp.png?raw=true)
 
-# WTF Webpack Starter Kit 
+# History of make'APP
 
-Simple toolkit for your static websites development.
+Basic React app about the history of makeup beginning from ancient times.
 
-## How to use it?
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
-
-## Available scripts
-
-`npm run start` - runs development mode
-
-`npm run build` - runs build process for production
-
-`npm run publish` - runs build process and publish the page using `gh-pages` branch
 
